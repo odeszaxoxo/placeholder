@@ -1,0 +1,29 @@
+{
+    "ysers": [
+      {
+        "id": 1,
+        "login": "test1",
+        "password": "test1"
+      },
+      {
+        "id": 2,
+        "login": "test2",
+        "password": "test2"
+      },
+      {
+        "id": 3,
+        "login": "test3",
+        "password": "test3"
+      },
+      {
+        "id": 4,
+        "login": "test4",
+        "password": "test4"
+      },
+      {
+        "id": 5,
+        "login": "test5",
+        "password": "test5"
+      }
+    ]
+    }
