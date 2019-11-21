@@ -49,28 +49,176 @@
     "id": 2,
     "title": "Сцена 2",
     "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    "thumbnailUrl": "https://via.placeholder.com/150/771796",
+    "events": [
+      {
+        "evID": 1,
+        "evTitle": "test1",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 2,
+        "evTitle": "test2",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 3,
+        "evTitle": "test3",
+        "day": 22,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 4,
+        "evTitle": "test4",
+        "day": 23,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 5,
+        "evTitle": "test5",
+        "day": 25,
+        "month": 11,
+        "year": 2019
+      }
+    ]
   },
   {
     "albumId": 1,
     "id": 3,
     "title": "Сцена 3",
     "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355",
+    "events": [
+      {
+        "evID": 1,
+        "evTitle": "test1",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 2,
+        "evTitle": "test2",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 3,
+        "evTitle": "test3",
+        "day": 22,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 4,
+        "evTitle": "test4",
+        "day": 23,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 5,
+        "evTitle": "test5",
+        "day": 25,
+        "month": 11,
+        "year": 2019
+      }
+    ]
   },
   {
     "albumId": 1,
     "id": 4,
     "title": "Сцена 4",
     "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776",
+    "events": [
+      {
+        "evID": 1,
+        "evTitle": "test1",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 2,
+        "evTitle": "test2",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 3,
+        "evTitle": "test3",
+        "day": 22,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 4,
+        "evTitle": "test4",
+        "day": 23,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 5,
+        "evTitle": "test5",
+        "day": 25,
+        "month": 11,
+        "year": 2019
+      }
+    ]
   },
   {
     "albumId": 1,
     "id": 5,
     "title": "Сцена 5",
     "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
+    "events": [
+      {
+        "evID": 1,
+        "evTitle": "test1",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 2,
+        "evTitle": "test2",
+        "day": 21,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 3,
+        "evTitle": "test3",
+        "day": 22,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 4,
+        "evTitle": "test4",
+        "day": 23,
+        "month": 11,
+        "year": 2019
+      },
+      {
+        "evID": 5,
+        "evTitle": "test5",
+        "day": 25,
+        "month": 11,
+        "year": 2019
+      }
+    ]
   }
 ],
 "users": [
