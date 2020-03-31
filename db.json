@@ -1,39 +1,39 @@
 {
-"scenes": [
-  {
-    "albumId": 1,
-    "id": 1,
-    "title": "Историческая сцена",
-    "url": "https://via.placeholder.com/600/92c952",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
-  },
-  {
-    "albumId": 1,
-    "id": 2,
-    "title": "Новая сцена",
-    "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
-  },
-  {
-    "albumId": 1,
-    "id": 3,
-    "title": "Бетховенский зал",
-    "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
-  },
-  {
-    "albumId": 1,
-    "id": 4,
-    "title": "Верхняя сцена",
-    "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
-  },
-  {
-    "albumId": 1,
-    "id": 5,
-    "title": "Балетный зал",
-    "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
-  }
-]
-}
+    "1": [
+      {
+        "groupId": 1,
+        "priority": 1,
+        "title": "Рабочие места",
+        "url": "https://via.placeholder.com/600/92c952",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      },
+      {
+        "groupId": 1,
+        "priority": 2,
+        "title": "Переговорные",
+        "url": "https://via.placeholder.com/600/771796",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      },
+      {
+        "groupId": 1,
+        "priority": 3,
+        "title": "Кабинеты",
+        "url": "https://via.placeholder.com/600/24f355",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+      },
+      {
+        "groupId": 1,
+        "priority": 4,
+        "title": "буфеты",
+        "url": "https://via.placeholder.com/600/d32776",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+      },
+      {
+        "groupId": 1,
+        "priority": 5,
+        "title": "Раздевалки",
+        "url": "https://via.placeholder.com/600/f66b97",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+      }
+    ]
+    }
