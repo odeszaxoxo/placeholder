@@ -1,0 +1,217 @@
+{
+    "1floor": [
+        {
+            "title" : "Помещения",
+            "id" : "groups1floor",
+            "groups" : [
+                {
+                    "groupId": 1,
+                    "priority": 1,
+                    "title": "Рабочие места 1",
+                    "url": "https://via.placeholder.com/600/92c952",
+                    "color": "#3f51b5"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 2,
+                    "title": "Переговорные 1",
+                    "url": "https://via.placeholder.com/600/771796",
+                    "color": "#002984"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 3,
+                    "title": "Кабинеты 1",
+                    "url": "https://via.placeholder.com/600/24f355",
+                    "color": "#757de8"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 4,
+                    "title": "Буфеты 1",
+                    "url": "https://via.placeholder.com/600/d32776",
+                    "color": "#673ab7"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 5,
+                    "title": "Раздевалки 1",
+                    "url": "https://via.placeholder.com/600/f66b97",
+                    "color": "#320b86"
+                  }
+            ]
+        }
+    ],
+    "2floor": [
+        {
+            "title" : "Комнаты",
+            "id" : "groups2floor",
+            "groups" : [
+                {
+                    "groupId": 1,
+                    "priority": 1,
+                    "title": "Рабочие места 2",
+                    "url": "https://via.placeholder.com/600/92c952",
+                    "color": "#1976d2"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 2,
+                    "title": "Переговорные 2",
+                    "url": "https://via.placeholder.com/600/771796",
+                    "color": "#63a4ff"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 3,
+                    "title": "Кабинеты 22",
+                    "url": "https://via.placeholder.com/600/24f355",
+                    "color": "#004ba0"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 4,
+                    "title": "Буфеты 2",
+                    "url": "https://via.placeholder.com/600/d32776",
+                    "color": "#9e9d24"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 5,
+                    "title": "Раздевалки 2",
+                    "url": "https://via.placeholder.com/600/f66b97",
+                    "color": "#6c6f00"
+                  }
+            ]
+        }
+    ],
+    "3floor": [
+        {
+            "title" : "Склады",
+            "id" : "groups3floor",
+            "groups" : [
+                {
+                    "groupId": 1,
+                    "priority": 1,
+                    "title": "Рабочие места 3",
+                    "url": "https://via.placeholder.com/600/92c952",
+                    "color": "#3f51b5"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 2,
+                    "title": "Переговорные 3",
+                    "url": "https://via.placeholder.com/600/771796",
+                    "color": "#002984"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 3,
+                    "title": "Кабинеты 3",
+                    "url": "https://via.placeholder.com/600/24f355",
+                    "color": "#757de8"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 4,
+                    "title": "Буфеты 3",
+                    "url": "https://via.placeholder.com/600/d32776",
+                    "color": "#673ab7"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 5,
+                    "title": "Раздевалки 3",
+                    "url": "https://via.placeholder.com/600/f66b97",
+                    "color": "#320b86"
+                  }
+            ]
+        }
+    ],
+    "4floor": [
+        {
+            "title" : "Помещения",
+            "id" : "groups4floor",
+            "groups" : [
+                {
+                    "groupId": 1,
+                    "priority": 2,
+                    "title": "Рабочие места 4",
+                    "url": "https://via.placeholder.com/600/92c952",
+                    "color": "#4e342e"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 1,
+                    "title": "Переговорные 4",
+                    "url": "https://via.placeholder.com/600/771796",
+                    "color": "#260e04"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 5,
+                    "title": "Кабинеты 4",
+                    "url": "https://via.placeholder.com/600/24f355",
+                    "color": "#7b5e57"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 3,
+                    "title": "Буфеты 4",
+                    "url": "https://via.placeholder.com/600/d32776",
+                    "color": "#455a64"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 4,
+                    "title": "Раздевалки 4",
+                    "url": "https://via.placeholder.com/600/f66b97",
+                    "color": "#1c313a"
+                  }
+            ]
+        }
+    ],
+    "5floor": [
+        {
+            "title" : "Места",
+            "id" : "groups5floor",
+            "groups" : [
+                {
+                    "groupId": 1,
+                    "priority": 1,
+                    "title": "Рабочие места 5",
+                    "url": "https://via.placeholder.com/600/92c952",
+                    "color": "#3f51b5"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 2,
+                    "title": "Переговорные 5",
+                    "url": "https://via.placeholder.com/600/771796",
+                    "color": "#002984"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 3,
+                    "title": "Кабинеты 5",
+                    "url": "https://via.placeholder.com/600/24f355",
+                    "color": "#757de8"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 4,
+                    "title": "Буфеты 5",
+                    "url": "https://via.placeholder.com/600/d32776",
+                    "color": "#673ab7"
+                  },
+                  {
+                    "groupId": 1,
+                    "priority": 5,
+                    "title": "Раздевалки 5",
+                    "url": "https://via.placeholder.com/600/f66b97",
+                    "color": "#320b86"
+                  }
+            ]
+        }
+    ]
+}
